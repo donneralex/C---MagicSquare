@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magisches Quadrat", "Magisches Quadrat\Magisches Quadrat.csproj", "{E464FCFE-0F62-44E1-8AA8-9E3C1970944E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E464FCFE-0F62-44E1-8AA8-9E3C1970944E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E464FCFE-0F62-44E1-8AA8-9E3C1970944E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E464FCFE-0F62-44E1-8AA8-9E3C1970944E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E464FCFE-0F62-44E1-8AA8-9E3C1970944E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C157263E-C316-4ED0-A573-CAC5DDDC600F}
+	EndGlobalSection
+EndGlobal

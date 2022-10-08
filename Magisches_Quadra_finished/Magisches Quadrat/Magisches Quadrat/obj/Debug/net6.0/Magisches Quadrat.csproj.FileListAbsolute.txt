@@ -1,0 +1,15 @@
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\obj\Debug\net6.0\Magisches Quadrat.csproj.AssemblyReference.cache
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\obj\Debug\net6.0\Magisches Quadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\obj\Debug\net6.0\Magisches Quadrat.AssemblyInfoInputs.cache
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\obj\Debug\net6.0\Magisches Quadrat.AssemblyInfo.cs
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\obj\Debug\net6.0\Magisches Quadrat.csproj.CoreCompileInputs.cache
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\bin\Debug\net6.0\Magisches Quadrat.exe
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\bin\Debug\net6.0\Magisches Quadrat.deps.json
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\bin\Debug\net6.0\Magisches Quadrat.runtimeconfig.json
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\bin\Debug\net6.0\Magisches Quadrat.dll
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\bin\Debug\net6.0\Magisches Quadrat.pdb
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\obj\Debug\net6.0\Magisches Quadrat.dll
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\obj\Debug\net6.0\refint\Magisches Quadrat.dll
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\obj\Debug\net6.0\Magisches Quadrat.pdb
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\obj\Debug\net6.0\Magisches Quadrat.genruntimeconfig.cache
+C:\Users\robin\Desktop\Schule 23\pos\Magisches Quadrat\Magisches Quadrat\obj\Debug\net6.0\ref\Magisches Quadrat.dll
